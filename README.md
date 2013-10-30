@@ -1,8 +1,8 @@
-#Toast - The Personal Media Host
+# Toast - The Personal Media Host
 
 Instead of relying on service like Twipic and yFrog, Toast allows you to host
 your own media on your own server. You no longer have to worry about how 3rd
-party services are using your images and data or who owns the copyright to what.
+party services are using your images and data or who owns the copyright to what, and how long data will last online.
 
 ## When would I use Toast?
 
@@ -22,3 +22,14 @@ party services are using your images and data or who owns the copyright to what.
 
 Toast acts as a permanent repository for your images and video whether it ends
 up on your personal site or in a social media service.
+
+## Overview
+
+- Easy installation
+- Built in API
+    - Easy uploads from a multitude of sources
+        - Media could be coming from your blogging engine, Twitter client, etc.
+- Secure setup ensures that you and only you can upload content to your Toast installation
+- Nice interface for when media is viewed in Toast
+    - For example when coming from a social site to view the photo
+- Integration with blogging engines for easy insertion of Toast media links into content
